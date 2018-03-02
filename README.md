@@ -1,2 +1,2 @@
 Educational Git project. 
-Implementar diferentes algoritmos de ordenación utilizando el strategy pattern.
+Implementa diferentes algoritmos de ordenación utilizando el strategy pattern.
